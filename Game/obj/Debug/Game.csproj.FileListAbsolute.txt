@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#\Game\Game\bin\Debug\Game.exe.config
+C:\Users\user\Desktop\C#\Game\Game\bin\Debug\Game.exe
+C:\Users\user\Desktop\C#\Game\Game\bin\Debug\Game.pdb
+C:\Users\user\Desktop\C#\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Game\Game\obj\Debug\Game.exe
+C:\Users\user\Desktop\C#\Game\Game\obj\Debug\Game.pdb
+C:\Users\user\Desktop\C#\Game\Game\bin\Debug\LiteDB.dll
+C:\Users\user\Desktop\C#\Game\Game\bin\Debug\LiteDB.xml
+C:\Users\user\Desktop\C#\Game\Game\obj\Debug\Game.csproj.CopyComplete
